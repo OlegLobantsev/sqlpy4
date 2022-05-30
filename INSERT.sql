@@ -24,6 +24,7 @@ INSERT INTO public.singer_genre (genre_id,singer_id)
     (9,5),
     (10,6),
     (9,7),
+    (7,7),
     (7,8);
 
 INSERT INTO public.album ("name","release")
